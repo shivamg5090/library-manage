@@ -1,0 +1,49 @@
+.main-content-container {
+  background-color: #fff8f0;
+  padding: 30px;
+  border-radius: 12px;
+  width: 90%;
+  margin: 30px auto;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  background-color: #fff;
+  padding: 25px;
+  margin-bottom: 40px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.info-grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-size: 16px;
+  color: #333;
+}
+
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+
+.styled-table th,
+.styled-table td {
+  border: 1px solid #1f2a44;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.styled-table th {
+  background-color: #1f2a44;
+  color: #ffffff;
+}
+
+h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #1f2a44;
+}
